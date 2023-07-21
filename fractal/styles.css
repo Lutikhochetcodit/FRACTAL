@@ -1,0 +1,348 @@
+body {
+	margin: 0;
+	background: #ECF2F4;
+	font-family: 'Inter';
+}
+
+.container {
+	display: block;
+	max-width: 1280px;
+	margin: 0 auto;
+}
+
+header {
+	height: 60px;
+}
+
+.text1 {
+background-image: url(opr.png);
+position: absolute;
+width: 1248px;
+height: 480px;
+left: 336px;
+top: 214px;
+}
+
+.text1 p {
+position: absolute;
+width: 1036px;
+height: 88px;
+left: 200px;
+top: 345px;
+font-size: 20px;
+color: #FAFAFA;
+}
+
+.header-nav-container{
+background-color: #FAFAFA;
+height: 60px;
+}
+
+.header-nav-container li {
+	margin-top: 20px;
+    margin-right: 30px;
+    margin-left: 37px;
+	display: inline-block;
+}
+.header-nav-container li a {
+	text-decoration: none;
+    	color: #8C98B0;
+    	font-family: 'PT Sans Narrow';
+    	font-style: normal;
+    	font-weight: 300;
+    	font-size: 18px;
+    	line-height: 81%;
+}
+
+.header-nav-links {
+	display: flex;
+    align-items: center;
+	padding-left: 153px;
+}
+
+h1 {
+margin: 0;
+text-align: center;
+font-family: 'PT Sans Narrow';
+font-size: 93px;
+color: #2C2B44;
+}
+
+
+.par1 h2 {
+position: absolute;
+width: 171px;
+height: 62px;
+left: 336px;
+top: 772px;
+font-family: 'PT Sans Narrow';
+font-size: 48px;
+}
+
+.par11 {
+position: absolute;
+width: 930px;
+height: 145px;
+left: 336px;
+top: 874px;
+font-size: 24px;
+}
+
+.par12 {
+position: absolute;
+width: 930px;
+height: 232px;
+left: 654px;
+top: 1059px;
+font-size: 24px;
+}
+
+.par13 {
+position: absolute;
+width: 930px;
+height: 261px;
+left: 336px;
+top: 1360px;
+font-size: 24px;
+}
+
+.par2 h2{
+position: absolute;
+width: 399px;
+height: 62px;
+left: 336px;
+top: 1714px;
+font-family: 'PT Sans Narrow';
+font-size: 48px;
+}
+
+.par21 {
+position: absolute;
+width: 930px;
+height: 203px;
+left: 336px;
+top: 1816px;
+font-size: 24px;
+}
+
+.pic2 {
+background-image: url(картинка2.jpeg);
+position: absolute;
+width: 1248px;
+height: 491px;
+left: 336px;
+top: 2084px;
+}
+
+.par3 h2 {
+position: absolute;
+width: 323px;
+height: 62px;
+left: 336px;
+top: 2663px;
+font-family: 'PT Sans Narrow';
+font-size: 48px;
+}
+
+.par31 {
+position: absolute;
+width: 930px;
+height: 116px;
+left: 336px;
+top: 2765px;
+font-size: 24px;
+}
+
+.par3 h3 {
+position: absolute;
+width: 930px;
+height: 29px;
+left: 654px;
+top: 2921px;
+font-size: 24px;
+}
+
+.par3 ul {
+position: absolute;
+width: 930px;
+height: 227px;
+left: 654px;
+top: 2966px;
+font-size: 24px;
+}
+
+.par4 h2 {
+position: absolute;
+width: 287px;
+height: 62px;
+left: 336px;
+top: 3275px;
+font-family: 'PT Sans Narrow';
+font-size: 48px;
+}
+
+.par41{
+position: absolute;
+width: 930px;
+height: 58px;
+left: 336px;
+top: 3383px;
+font-size: 24px;
+}
+
+.pic3 {
+background-image: url(картинка3.png);
+position: absolute;
+width: 480px;
+height: 612px;
+left: 400px;
+top: 3450px;
+transform: rotate(-90deg);
+}
+
+.pic4 {
+background-image: url(картинка4.png);
+position: absolute;
+width: 480px;
+height: 612px;
+left: 1036px;
+top: 3450px;
+transform: rotate(-90deg);
+}
+
+.par42 {
+position: absolute;
+width: 564px;
+height: 625px;
+left: 336px;
+top: 4001px;
+font-size: 24px;
+}
+
+.par43 {
+position: absolute;
+width: 564px;
+height: 617px;
+left: 972px;
+top: 4001px;
+font-size: 24px;
+}
+
+.pic666 {
+background-image: url(лишняя.png);
+position: absolute;
+width: 228px;
+height: 80px;
+left: 500px;
+top: 4665px;
+}
+
+.par44{
+position: absolute;
+width: 564px;
+height: 116px;
+left: 336px;
+top: 4754px;
+font-size: 24px;
+}
+
+.par5 h2 {
+position: absolute;
+width: 475px;
+height: 62px;
+left: 336px;
+top: 4958px;
+font-family: 'PT Sans Narrow';
+font-size: 48px;
+}
+
+.par51 {
+position: absolute;
+width: 930px;
+height: 145px;
+left: 336px;
+top: 5060px;
+font-size: 24px;
+}
+
+.par52 {
+position: absolute;
+width: 930px;
+height: 290px;
+left: 654px;
+top: 5260px;
+font-size: 24px;
+}
+
+.par53 {
+position: absolute;
+width: 930px;
+height: 174px;
+left: 336px;
+top: 5575px;
+font-size: 24px;
+}
+
+.par6 h2 {
+position: absolute;
+width: 327px;
+height: 62px;
+left: 336px;
+top: 5830px;
+font-family: 'PT Sans Narrow';
+font-size: 48px;
+}
+
+.pic6 {
+background-image: url(картинка66.png);
+position: absolute;
+width: 1248px;
+height: 314px;
+left: 336px;
+top: 5963px;
+}
+
+.par61 {
+position: absolute;
+width: 954px;
+height: 377px;
+left: 336px;
+top: 6317px;
+font-size: 24px;
+}
+
+.pic7 {
+background-image: url(картинка55.png);
+position: absolute;
+width: 400px;
+height: 315px;
+left: 336px;
+top: 6800px;
+}
+
+.par62 {
+position: absolute;
+width: 824px;
+height: 148px;
+left: 760px;
+top: 6780px;
+font-size: 24px;
+}
+
+.par63 {
+position: absolute;
+width: 824px;
+height: 58px;
+left: 760px;
+top: 7030px;
+font-size: 24px;
+}
+
+.footer{
+position: absolute;
+width: 824px;
+height: 100px;
+top: 7130px;
+}
+
+
